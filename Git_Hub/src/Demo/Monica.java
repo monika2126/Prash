@@ -6,5 +6,7 @@ public class Monica {
 		System.out.println("monica");
 		System.out.println("GitHub");
 	}
-
+public void m1()
+{
+}
 }
